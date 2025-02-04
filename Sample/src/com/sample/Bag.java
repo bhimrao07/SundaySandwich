@@ -14,6 +14,7 @@ public class Bag {
 	Bag()
 	{
 		System.out.println("Studying");
+		System.out.println("Studying");
 	}
 	
 	Bag(int age,int id)
